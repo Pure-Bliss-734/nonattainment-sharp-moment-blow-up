@@ -1,0 +1,15 @@
+{
+  "16": {
+    "symmetry.json": "132b1a10fd24d0ed4a8f12060e708f300d2dadb1d49a63b98f857f9541bcded8",
+    "kkt_upper.json": "ac99473d5e2574a3f23a0243d6d76e5d29bc3bf55e7d47d69eeefe41379288b6",
+    "kkt_lower.json": "90e0ccd04f6c9b8f7fe636123ca23357d5ef7f612cfa4b61707b8e52454cebff",
+    "face_rows_lower.json": "d5803f969f77dcc1ddb9aa09b58376e626bcada2484f6f862c72fe6f25f6c771",
+    "face_rows_upper.json": "494c2c32931a30f105864d4f51f0e199b260cd8a68276dde6f1c48724bad8408",
+    "interior_lower.json": "8f525666f5f5d98661e4f38faba94a3cf033877c400bebf75478936629147663",
+    "interior_upper.json": "7a9b43f8ceba2cbbe7387e6dbf4889fcb7b3391cdbb2f2331c35f6d2f77cdbee",
+    "pencils.json": "fb7a73d40e2d733a48bb2457274624ac425e0f97ad0e3a291bd46084f1c37702"
+  },
+  "20": {
+    "shared_pencils.json": "35f905894a2c61f6488bb0480c6c6551b229f63b5800a5bf92833dde277ba39e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "lower": {
+    "metric_shift": "1/100",
+    "distance_limit": "1/1000000000000000",
+    "lower_remainder_bound": "1/100",
+    "upper_remainder_bound": "1/3"
+  },
+  "upper": {
+    "metric_shift": "1",
+    "distance_limit": "1/10000000000",
+    "lower_remainder_bound": "7/2",
+    "upper_remainder_bound": "1/20"
+  }
+}

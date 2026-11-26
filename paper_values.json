@@ -1,0 +1,16 @@
+{
+  "lower": {
+    "radius_prefix": "0.385559551944394858",
+    "coefficient_mantissa": "6.8349218774169746411",
+    "coefficient_exponent": -8,
+    "constant_lower": "0.2424208524",
+    "constant_upper": "0.2877746682"
+  },
+  "upper": {
+    "radius_prefix": "0.391996911587389076",
+    "coefficient_mantissa": "3.2236233680939658408",
+    "coefficient_exponent": -6,
+    "constant_lower": "-0.2626360208",
+    "constant_upper": "0.0419764430"
+  }
+}
